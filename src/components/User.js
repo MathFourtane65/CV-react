@@ -17,9 +17,9 @@ function User(){
                 <p className="user_info">
                     <HomeIcon/>4 rue marque dessus 65360 Vielle-Adour</p>
                 <p className="user_info">
-                    <LocalPhoneIcon/><a href="tel:+33619294611">0619294611</a></p>
+                    <LocalPhoneIcon/><a href="tel:+336XXXXXXXX">XX XX XX XX XX</a></p>
                 <p className="user_info">
-                    <MailIcon/><a href="mailto:mathieu.fourtane@gmail.com">mathieu.fourtane@gmail.com</a></p>
+                    <MailIcon/><a href="mailto:XXXX.XXXX@gmail.com">XXXX.XXXX@gmail.com</a></p>
                 <p className="user_info">
                     <EventIcon/>Date de naissance : 04 Mars 2000</p>
                 <p className="user_info">
