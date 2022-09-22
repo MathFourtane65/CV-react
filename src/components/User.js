@@ -15,7 +15,7 @@ function User(){
             <p className="user_profession">Etudiant en informatique</p>
             <div className="user_infos">
                 <p className="user_info">
-                    <HomeIcon/>4 rue marque dessus 65360 Vielle-Adour</p>
+                    <HomeIcon/>XX XX XX XXX XXXX XXXXX</p>
                 <p className="user_info">
                     <LocalPhoneIcon/><a href="tel:+336XXXXXXXX">XX XX XX XX XX</a></p>
                 <p className="user_info">
