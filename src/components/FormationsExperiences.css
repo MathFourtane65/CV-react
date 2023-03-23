@@ -18,6 +18,12 @@
     font-weight: 500;
 }
 
+.barre-horizontale {
+    margin: var(--spacing-1) 0;
+    border-bottom: 1px solid var(--date-color);
+    width: 70%;
+}
+
 .grid_mission {
     margin-bottom: var(--spacing-1) ;
 }

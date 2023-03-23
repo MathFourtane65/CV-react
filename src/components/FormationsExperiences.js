@@ -1,18 +1,17 @@
 import React from "react";
-import "./FormationsExperiences.css"
+import "./FormationsExperiences.css";
 import dataFormations from "../datas/Formations";
 import Formations from "./Formations";
 import dataExperiences from "../datas/Experiences";
-import Experiences from "./Experiences"
-
+import Experiences from "./Experiences";
 
 function FormationsExperiences() {
-    return (
-        <>
-        <Formations datas={dataFormations}/>
-        <Experiences datas={dataExperiences}/>
-        </>
-    )
+  return (
+    <>
+      <Experiences datas={dataExperiences} />
+      <Formations datas={dataFormations} />
+    </>
+  );
 }
 
-export default FormationsExperiences
+export default FormationsExperiences;

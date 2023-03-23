@@ -1,9 +1,37 @@
 const dataFormations = [
     {
         id:1,
+        title:"Mastère 2 Informatique",
+        date:"01/10/2022 - 30/09/2023",
+        location:"ÉSTIAM Tarbes, 65000 Tarbes",
+        contenus : [
+            {
+                id:1,
+                title:"Spécialité Data et Application Design",
+            },
+            {
+                id:2,
+                title:"Applications Hybrides : Ionic",
+            },
+            {
+                id:3,
+                title:"Phaser3 / NodeJS / ExpressJS / Socket.io",
+            },
+            {
+                id:4,
+                title:"POO C# : Xamarin, ASP.NET Core",
+            },
+            {
+                id:5,
+                title:"Cursus métiers : E-INDUSTRIES ",
+            }
+        ]
+    },
+    {
+        id:2,
         title:"Mastère 1 Informatique",
         date:"01/10/2021 - 31/09/2022",
-        location:"ESTIAM Tarbes, 65000 Tarbes",
+        location:"ÉSTIAM Tarbes, 65000 Tarbes",
         contenus : [
             {
                 id:1,
@@ -24,10 +52,10 @@ const dataFormations = [
         ]
     },
     {
-        id:2,
+        id:3,
         title:"Bachelor Informatique",
         date:"01/10/2020 - 31/09/2021",
-        location:"ESTIAM Tarbes, 65000 Tarbes",
+        location:"ÉSTIAM Tarbes, 65000 Tarbes",
         contenus : [
             {
                 id:1,
@@ -44,7 +72,7 @@ const dataFormations = [
         ]
     },
     {
-        id:3,
+        id:4,
         title:"BTS Systèmes Numériques",
         date:"01/09/2018 - 01/07/2020",
         location:"Lycée Pradeau-La Sède-St Pierre, 65000 Tarbes",
@@ -60,7 +88,7 @@ const dataFormations = [
         ]
     },
     {
-        id:4,
+        id:5,
         title:"Baccalauréat Scientifique",
         date:"01/09/2015 - 01/07/2018",
         location:"Lycée Général et Technologique Marie Curie, 65000 Tarbes",

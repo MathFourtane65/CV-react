@@ -14,6 +14,7 @@ function Interests() {
             <li>Football</li>
             <li>Ski de piste</li>
             <li>Randonnée</li>
+            <li>Formule 1</li>
         </ul>
         <div className="interests">
             <ComputerIcon style={{fontSize:40}} />

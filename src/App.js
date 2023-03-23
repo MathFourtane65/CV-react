@@ -13,7 +13,7 @@ function App() {
       <div className="grid_container"> 
         <div className="sidebar">
           <div className="actions">
-          <DarkMode />
+          {/* <DarkMode /> */}
           </div>
           
           <User />
